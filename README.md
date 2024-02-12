@@ -1,2 +1,3 @@
-# QuizeApp
-QuizeApp
+# quize_application
+
+A new Flutter project.
